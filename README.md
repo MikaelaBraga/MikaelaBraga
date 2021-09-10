@@ -1,8 +1,9 @@
-### Olá! Eu sou Mikaela Braga 👋
+### Olá! Eu sou a Mikaela Braga 👋
 
-- 🔭 Desenvolvedora Web em formação
-- 🌱 Estudando Backend
-- 😄 Pronouns: ela/dela
+- 🔭 Desenvolvedora Web em formação na Trybe;
+- 🌱 Estudando mySql no módulo de Backend;
+- 🎹 Aspirante a tecladista e, amante de filmes e séries/animes 📺;
+- 😄 Pronomes: ela/dela
 
  <div>
   <a href="https://github.com/MikaelaBraga">
@@ -20,7 +21,6 @@
   ##
   
 <div> 
-  <a href = "mailto:bragamikaela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/mikaela-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MikaelaBraga/MikaelaBraga/blob/output/github-contribution-grid-snake.svg)
