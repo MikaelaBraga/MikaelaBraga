@@ -1,9 +1,8 @@
 ### Olá, eu sou a Mikaela Braga 👋
 
 - 🔭 Desenvolvedora Web em formação na Trybe;
-- 🌱 Estudando mySql no módulo de Backend;
+- 🌱 Estudando módulo de Backend;
 - 🎹 Aspirante a tecladista e, amante de filmes e séries/animes 📺;
-- 🤝 Gosto muito de ajudar, se precisar, é só me chamar!
 - 📧 Meu e-mail para contato: bragamikaela@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-braga/)
