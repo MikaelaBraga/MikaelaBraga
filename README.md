@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedora Web em formação na Trybe;
 - 🌱 Estudando o módulo de Ciência da Computação;
-- 🎹 Aspirante a tecladista e, amante de filmes e séries/animes 📺;
+- 🎹 Aspirante a tecladista e, amante de filmes e séries 📺;
 - 📧 Meu e-mail para contato: bragamikaela@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-braga/)
