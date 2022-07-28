@@ -1,7 +1,7 @@
 ### Olá, eu sou a Mikaela Braga 👋
 
-- 🔭 Desenvolvedora Web em formação na Trybe;
-- 🌱 Estudando o módulo de Ciência da Computação;
+- 🔭 Desenvolvedora Web Full-stack formada na Trybe;
+- 🌱 Estudando um pouco de Linux e Análise de dados, e reforçando conhecimentos em Front-end;
 - 🎹 Aspirante a tecladista e, amante de filmes e séries 📺;
 - 📧 Meu e-mail para contato: bragamikaela@gmail.com
 
