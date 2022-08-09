@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedora Web Full-stack formada na Trybe;
 - 🌱 Estudando e aprendendo mais de Front-end;
-- 🎹 Entusiasta da música e, amante de filmes e séries 📺;
+- 🎹 Meus hobbies são tocar teclado e assistir filmes 📺;
 - 📧 Meu e-mail para contato: bragamikaela@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-braga/)
